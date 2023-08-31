@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Moons J.
+- 👀 I’m interested in web developing.
+- 🌱 I’m currently learning and will have a course in Le Wagon Barcelona.
