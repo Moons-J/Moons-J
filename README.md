@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jonas.
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning and will have a course in Le Wagon Barcelona.
+- 🌱 I’m currently learning in Le Wagon Barcelona.
