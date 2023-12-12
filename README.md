@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonas</h1>
+<h1 align="center">🏔️ I'm Jonas 💻</h1>
 <h3 align="center">A passionate full stack developer from Belgium 🇧🇪</h3>
 
 - 🌱 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
