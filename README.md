@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Jonas.
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning in Le Wagon Barcelona.
+- 🌱 I finished the Full Stack Developer Bootcamp in 'Le Wagon' Barcelona.
+- 💪 I will keep working on existing projects.
+- 👷‍♂️ Hopefully I will be able to start cool new projects very soon.
