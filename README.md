@@ -1,7 +1,7 @@
 <h1 align="center">🏔️ I'm Jonas 💻</h1>
 <h3 align="center">A passionate full stack developer from Belgium 🇧🇪</h3>
 
-- 🌱 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
+- 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
 - 🔭 I’m currently working on **My New Meal Plan**
 - 💪 I will keep working on existing projects.
 - 🌱 I’m currently learning **React**
