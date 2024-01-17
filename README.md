@@ -4,6 +4,7 @@
 - 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
 - 🔭 I’m currently working on **My New Meal Plan**
 - 💪 I will keep working on existing projects.
+- 👀 Always interested in new projects.
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
