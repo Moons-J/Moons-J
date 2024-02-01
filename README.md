@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Belgium 🇧🇪</h3>
 
 - 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
-- 🔭 I’m currently working on **My New Meal Plan**
+- 🔭 I’m currently working on **personal portfolio website** and **My New Meal Plan**
 - 💪 I will keep working on existing projects.
 - 👀 Always interested in new projects.
 - 🌱 I’m currently learning **React**
