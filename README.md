@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 and welcome to my GitHub! I'm Jonas,</h1>
+<h1 align="center">Hello 👋 and welcome to my GitHub!</h1>
 <h1 align="center">I'm Jonas,</h1>
 <h3 align="center">a passionate full stack developer 👨‍💻 from Belgium 🇧🇪</h3>
 
