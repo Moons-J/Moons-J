@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 and welcome to my GitHub!</h1>
-<h2 align="center">I'm Jonas,</h2>
+<h1 align="center">I'm Jonas,</h1>
 <h3 align="center">a passionate full stack developer 👨‍💻 from Belgium 🇧🇪</h3>
 
 - 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
