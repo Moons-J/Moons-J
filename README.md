@@ -3,9 +3,10 @@
 <h3 align="center">a passionate full stack developer 👨‍💻 from Belgium 🇧🇪</h3>
 
 - 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
-- 🔭 I’m currently working on **personal portfolio website** and **My New Meal Plan**
-- 💪 I will keep working on existing projects.
+- 🔭 I’m currently working on **my portfolio website**.
+- 💪 I will keep working on **my new meal plan** and organise meetings to expand and imporve it.
 - 👀 Always interested in new projects.
+- 🤓 Learning and coding is my passion!
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
