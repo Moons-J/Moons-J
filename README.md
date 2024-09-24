@@ -4,10 +4,9 @@
 
 - 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
 - 🔭 I’m currently working on **my portfolio website**.
-- 💪 I will keep working on **my new meal plan** and organise meetings to expand and imporve it.
-- 👀 Always interested in new projects.
-- 🤓 Learning and coding is my passion!
-- 🌱 I’m currently learning **React**
+- 💪 Currently working on Soofte. A project that wil requere daily coding and real life meetings.
+- 🤓 Learning something new everyday keeps my motor running.
+- 🌱 I’m currently learning **React** and **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
