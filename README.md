@@ -2,9 +2,8 @@
 <h1 align="center">I'm Jonas,</h1>
 <h3 align="center">a passionate full stack developer 👨‍💻 from Belgium 🇧🇪</h3>
 
-- 🌳 I followed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona.
-- 🔭 I’m currently working on **my portfolio website**.
-- 💪 Currently working on Soofte. A project that wil requere daily coding and real life meetings.
+- 🌳 I completed a Full Stack Developer Bootcamp at 'Le Wagon' Barcelona in end 2023.
+- 🔭 I’m currently working on Soofte. A project that wil requere daily coding and weekly meetings.
 - 🤓 Learning something new everyday keeps my motor running.
 - 🌱 I’m currently learning **React** and **Next.js**
 
